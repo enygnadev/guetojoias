@@ -1,0 +1,154 @@
+{
+  "products": [
+    {
+      "name": "Corrente Dourada Premium - 50cm",
+      "category": "correntes",
+      "price": 299.90,
+      "description": "Corrente de ouro dourado com acabamento impecável. Cada elo é meticulosamente trabalhado para garantir durabilidade e brilho. Perfeita para quem quer destaque e elegância no pescoço.",
+      "thumbnail": "corrente-dourada.jpg",
+      "images": ["corrente-dourada.jpg"],
+      "videos": [],
+      "specifications": {
+        "material": "Ouro Dourado",
+        "weight": "25g",
+        "dimensions": "50cm de comprimento, 5mm de espessura"
+      },
+      "stock": 5
+    },
+    {
+      "name": "Ouro 18k Premium - 55cm",
+      "category": "correntes",
+      "price": 499.90,
+      "description": "Corrente de ouro 18 quilates com a mais alta qualidade. Ideal para ocasiões especiais e uso diário luxuoso. Certificada e garantida.",
+      "thumbnail": "corrente-ouro-18k.jpg",
+      "images": ["corrente-ouro-18k.jpg"],
+      "videos": [],
+      "specifications": {
+        "material": "Ouro 18K",
+        "weight": "32g",
+        "dimensions": "55cm de comprimento, 6mm de espessura"
+      },
+      "stock": 3
+    },
+    {
+      "name": "Pingente Brilho Puro",
+      "category": "pingentes",
+      "price": 189.90,
+      "description": "Pingente brilhante com design sofisticado e moderno. Trabalho artesanal que reflete luz de forma excepcional.",
+      "thumbnail": "pingente-brilho.jpg",
+      "images": ["pingente-brilho.jpg"],
+      "videos": [],
+      "specifications": {
+        "material": "Ouro Dourado",
+        "weight": "12g",
+        "dimensions": "2cm altura x 1.5cm largura"
+      },
+      "stock": 10
+    },
+    {
+      "name": "Pingente Premium Deluxe",
+      "category": "pingentes",
+      "price": 249.90,
+      "description": "Pingente de design exclusivo com acabamento premium. Cada peça é única e personalizada.",
+      "thumbnail": "pingente-premium.jpg",
+      "images": ["pingente-premium.jpg"],
+      "videos": [],
+      "specifications": {
+        "material": "Ouro 18K",
+        "weight": "15g",
+        "dimensions": "2.5cm altura x 2cm largura"
+      },
+      "stock": 7
+    },
+    {
+      "name": "Pulseira Prata Esterlina",
+      "category": "pulseiras",
+      "price": 159.90,
+      "description": "Pulseira em prata esterlina com acabamento impecável. Confortável para uso diário com toque de luxo.",
+      "thumbnail": "pulseira-prata.jpg",
+      "images": ["pulseira-prata.jpg"],
+      "videos": [],
+      "specifications": {
+        "material": "Prata Esterlina 925",
+        "weight": "18g",
+        "dimensions": "18cm de comprimento"
+      },
+      "stock": 8
+    },
+    {
+      "name": "Pulseira Dourada Executive",
+      "category": "pulseiras",
+      "price": 179.90,
+      "description": "Pulseira dourada de design executivo. Perfeita para reuniões de negócios e eventos.",
+      "thumbnail": "pulseira-dourada.jpg",
+      "images": ["pulseira-dourada.jpg"],
+      "videos": [],
+      "specifications": {
+        "material": "Ouro Dourado",
+        "weight": "20g",
+        "dimensions": "19cm de comprimento"
+      },
+      "stock": 6
+    },
+    {
+      "name": "Anel Premium Classic",
+      "category": "aneis",
+      "price": 219.90,
+      "description": "Anel de design premium para ocasiões especiais. Confortável e elegante.",
+      "thumbnail": "anel-premium.jpg",
+      "images": ["anel-premium.jpg"],
+      "videos": [],
+      "specifications": {
+        "material": "Ouro Dourado",
+        "weight": "8g",
+        "dimensions": "Tamanho 20"
+      },
+      "stock": 15
+    },
+    {
+      "name": "Anel Ouro 18K Executivo",
+      "category": "aneis",
+      "price": 289.90,
+      "description": "Anel em ouro 18 quilates com design executivo sofisticado.",
+      "thumbnail": "anel-ouro.jpg",
+      "images": ["anel-ouro.jpg"],
+      "videos": [],
+      "specifications": {
+        "material": "Ouro 18K",
+        "weight": "10g",
+        "dimensions": "Tamanho 22"
+      },
+      "stock": 5
+    },
+    {
+      "name": "Corrente Fina Delicada",
+      "category": "correntes",
+      "price": 139.90,
+      "description": "Corrente fina e delicada, perfeita para uso minimalista e discreto.",
+      "thumbnail": "corrente-fina.jpg",
+      "images": ["corrente-fina.jpg"],
+      "videos": [],
+      "specifications": {
+        "material": "Ouro Dourado",
+        "weight": "15g",
+        "dimensions": "45cm de comprimento, 3mm de espessura"
+      },
+      "stock": 12
+    },
+    {
+      "name": "Corrente Grossa Statement",
+      "category": "correntes",
+      "price": 359.90,
+      "description": "Corrente grossa e imponente. Faz Statement por si só. Design que chama atenção.",
+      "thumbnail": "corrente-grossa.jpg",
+      "images": ["corrente-grossa.jpg"],
+      "videos": [],
+      "specifications": {
+        "material": "Ouro Dourado",
+        "weight": "35g",
+        "dimensions": "50cm de comprimento, 8mm de espessura"
+      },
+      "stock": 4
+    }
+  ]
+}

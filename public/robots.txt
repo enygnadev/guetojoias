@@ -1,0 +1,13 @@
+# Robots.txt - Gueto Joias
+
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api
+Disallow: /.env
+Disallow: /node_modules
+
+Sitemap: https://guetojoias.com/sitemap.xml
+
+# Delay para crawlers (em segundos)
+Crawl-delay: 1
